@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "501275711609",
+    "project_id": "tour-1a768",
+    "storage_bucket": "tour-1a768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501275711609:android:e2433183557233f2939ca8",
+        "android_client_info": {
+          "package_name": "com.example.tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501275711609-f8fqeob38uiih6ctmf6n1kscj4c4ts76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tour",
+            "certificate_hash": "8b5f33aba7f9cdc93c443bc1055f67fb38e9f6fb"
+          }
+        },
+        {
+          "client_id": "501275711609-ot4l7rk01gask7pi73b4seubdfirdcfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf3v5xoQjiakttEBJ6KwU5yUZ4eCL8l9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501275711609-ot4l7rk01gask7pi73b4seubdfirdcfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
